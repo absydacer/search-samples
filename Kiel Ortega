@@ -1,0 +1,15 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "person",
+  "name": "Kiel Otega",
+  "jobTitle": "Actor",
+  "url": "https://en.wikipedia.org/wiki/Kiel_Ortega",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Quezon City",
+    "addressCountry": "Philippines"
+  },
+  "birthDate": "1989-12-03"
+}
+ </script>
